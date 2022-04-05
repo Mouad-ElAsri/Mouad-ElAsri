@@ -13,13 +13,12 @@
 ## ✉️ Connect with me:
 
 <p>
- <a href="mailto:elasrimouad90@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" width="40""></a>
- <a href="https://instagram.com/mouad_el_asriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blabla" height="30" width="40" /></a>
+<a href="mailto:elasrimouad90@gmail.com" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="Mouad-ElAsri" height="40" width="40"/></a>
+<a href="https://instagram.com/mouad_el_asriii" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Mouad-ElAsri" height="40" width="40"/></a>
+<a href="https://facebook.com/mouad.alasri.7" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" alt="Mouad-ElAsri" height="40" width="40"/></a>
 </p>
 
 ---
-   
-<br />
 
 ## 🧰 Languages and Tools:
 
@@ -39,6 +38,5 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouad-ElAsri&hide=prs,contribs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-ElAsri&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mouad-ElAsri&hide=prs,contribs&show_icons=true&include_all_commits=true&hide_border=true" alt="MouadElAsri's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-ElAsri&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
